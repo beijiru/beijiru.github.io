@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            psonis.com
-tagline:          a personal blog
+title:            Vasileios Psonis
+tagline:          psonis.com
 url:              psonis.com
 paginate:         1
 baseurl:          /
