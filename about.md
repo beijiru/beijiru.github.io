@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-Hello I am [beijiru](https://twitter.com/mdo).
+Hello I am [beijiru](https://twitter.com/beijiru).
 </p>
 
 
