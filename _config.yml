@@ -4,14 +4,14 @@ relative_permalinks: true
 
 # Setup
 title:            psonis.com
-tagline:          a personal blog
+tagline:          
 url:              http://psonis.com
 paginate:         1
 baseurl:          /
 author:
   name:           Vasileios Psonis
   url:            https://twitter.com/beijiru
-  email:          markdotto@gmail.com
+  email:          no@mail.com
 
 # Custom vars
 version:          1.0.0
