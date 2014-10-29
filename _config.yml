@@ -3,14 +3,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            psonis.com
+tagline:          a personal blog
+url:              http://psonis.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
+  name:           Vasileios Psonis
+  url:            https://twitter.com/beijiru
   email:          markdotto@gmail.com
 
 # Custom vars
