@@ -3,12 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
 Hello I am [beijiru](https://twitter.com/beijiru).
-</p>
 
-
-## Setup
-
-Just getting started...
-Thanks for reading!
+*Just getting started...*
