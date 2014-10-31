@@ -89,7 +89,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![placeholder](http://f.cl.ly/items/2h2I2L0A0m3l3O3H1E0E/Theodorakis.jpg =400x400 "Large example image")
+<img src="http://f.cl.ly/items/2h2I2L0A0m3l3O3H1E0E/Theodorakis.jpg" alt="Drawing" style="width: 400px;"/>
 ![placeholder](http://placehold.it/400x200 "Medium example image")
 ![placeholder](http://placehold.it/200x200 "Small example image")
 
